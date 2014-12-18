@@ -10,3 +10,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 While files are in the staging area they can be compared with the working directory and see the differences between them before they are commited
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are helpful when we want to make changes to the file but we are not sure if they are going to work or not, this way the master branch doesn't get modified.
+

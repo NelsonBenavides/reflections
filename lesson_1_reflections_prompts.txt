@@ -1,0 +1,32 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    It shows you where is something different between the two files. You just have to compare the two and find it.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You will be able to review how the program was written and functioning at any point in time making it easier to find when changes or recisions were made.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    I think manually choosing when to create a commit is good because it gives you the change to commit when you consider it is the proper time for it, although, if not done correctly, too little or too many commits would make things difficult. On the other hand, Google docs doesn't allow you to commit when it technically should be appropiate. It does it automaticall so there's not much freedom here.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think this is allowed so that it is easier to keep track of all the files changed at once when the change affected all of them logically.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log to view the commits and their IDs. Type q to exit. Then type in git diff followed by the ID with the change to check and the previous ID to compare the two. Type q to exit.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I got it now and git is pretty cool :)  -- I can check all commits at any point in time and even get back to an older version of the code. Awesome!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would think for a big project where several files are involved and many lines of code are used.

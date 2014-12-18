@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Running git init initializes a repository which creates a .git directory with files needed to create commits
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area is just the area where we place the files to be commited. Working directory is the directory where all files are stored
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+While files are in the staging area they can be compared with the working directory and see the differences between them before they are commited
+

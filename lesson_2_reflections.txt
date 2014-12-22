@@ -22,4 +22,6 @@ What is the result of merging two branches together? Why do we represent it in t
 
 The result of merging two branches together is that it creates one "final" result with the two branches combined. The diagram helps visualizing all the different branches and possible branches that may become unreachable.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+Git's automatic merging would always alert you of any conflicts between files and/or branches. Manually mergin could overwrite changes.

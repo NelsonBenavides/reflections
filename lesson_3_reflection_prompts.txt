@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    To get feedback about possible changes before changing the actual master file, and/or to prevent breaking the master. Making changes in master directly avoids the entire process of pulling, pushing, and merging, but once "officially changed" then the master is changed.
